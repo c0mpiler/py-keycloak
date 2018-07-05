@@ -1,4 +1,4 @@
-[![PyPI version](https://badge.fury.io/py/py-keycloak.svg)](https://badge.fury.io/py/py-keycloak)
+[![PyPI version](https://badge.fury.io/py/py-keycloak.svg?v=0.0.1.3)](https://badge.fury.io/py/py-keycloak)
 [![Documentation Status](https://readthedocs.org/projects/py-keycloak/badge/?version=latest)](http://py-keycloak.readthedocs.io/en/latest/?badge=latest)
 [![GitHub issues](https://img.shields.io/github/issues/c0mpiler/py-keycloak.svg)](https://github.com/c0mpiler/py-keycloak/issues)
 [![GitHub license](https://img.shields.io/github/license/c0mpiler/py-keycloak.svg)](https://github.com/c0mpiler/py-keycloak/blob/master/LICENSE)
