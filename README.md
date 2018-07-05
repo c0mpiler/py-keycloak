@@ -20,7 +20,7 @@ For review- see https://github.com/c0mpiler/py-keycloak
 
 ``` $ pip install py-keycloak ```
 
-### Manually
+### Manually 
 
 ``` $ python setup.py install ```
 
