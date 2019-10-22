@@ -5,7 +5,7 @@ from setuptools import setup
 with open("README.md", "r") as fh:
     long_description = fh.read()
 
-requirements = ['requests==2.18.4', 'httmock==1.2.5', 'python-jose==1.4.0']
+requirements = ['requests==2.20.0', 'httmock==1.2.5', 'python-jose==1.4.0']
 
 setup(
     name='py-keycloak',
